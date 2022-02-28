@@ -1,1 +1,1 @@
-DROP DATABASE TEST;
+create database test;
